@@ -55,7 +55,7 @@ This project aims to help users detect and report potential phishing websites by
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/yourusername/phishing-website-detector.git
+   git clone https://github.com/Cherry2210030393/Phishing-Website-Detector.git
    cd phishing-website-detector
    ```
 
