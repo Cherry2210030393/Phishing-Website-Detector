@@ -39,8 +39,15 @@ This project aims to help users detect and report potential phishing websites by
 ---
 
 ## 📷 Screenshot
+![image](https://github.com/user-attachments/assets/ddd85463-18bb-48fa-bb30-b40bc82d2436)
+![image](https://github.com/user-attachments/assets/cc65a85c-1dfd-4e69-ac58-811500b10259)
+![image](https://github.com/user-attachments/assets/84e48148-d51b-48a8-b2a9-cb5ae335e233)
 
-![Phishing Detector UI Screenshot](./screenshot.png)
+
+
+
+
+
 
 ---
 
@@ -105,14 +112,4 @@ phishing-website-detector/
 
 This tool is for educational and cybersecurity awareness purposes only. It **does not guarantee** complete protection from phishing or malicious URLs.
 
----
 
-## 🤝 Contributions
-
-Pull requests are welcome! If you’d like to add more threat feeds, improve the UI, or enhance accuracy, feel free to contribute.
-
----
-
-## 📜 License
-
-MIT License
