@@ -68,7 +68,6 @@ This project aims to help users detect and report potential phishing websites by
    Create a `.env` file and add:
    ```env
    GSB_API_KEY=your_api_key
-   PHISHTANK_API_KEY=your_phishtank_key
    ```
 
 4. **Run the app**
